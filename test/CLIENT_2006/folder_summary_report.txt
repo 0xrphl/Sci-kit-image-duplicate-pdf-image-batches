@@ -1,0 +1,69 @@
+Folder Summary Report
+==================================================
+
+
+Ranking by average_similarity:
+  1. BATCH_01.pdf vs BATCH_02.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_02
+  2. BATCH_01.pdf vs BATCH_03.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_03
+  3. BATCH_01.pdf vs BATCH_04.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_04
+  4. BATCH_01.pdf vs BATCH_05.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_05
+  5. BATCH_02.pdf vs BATCH_03.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_02_BATCH_03
+  6. BATCH_02.pdf vs BATCH_04.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_02_BATCH_04
+  7. BATCH_02.pdf vs BATCH_05.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_02_BATCH_05
+  8. BATCH_03.pdf vs BATCH_04.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_03_BATCH_04
+  9. BATCH_03.pdf vs BATCH_05.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_03_BATCH_05
+  10. BATCH_04.pdf vs BATCH_05.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_04_BATCH_05
+
+Ranking by identical_pages:
+  1. BATCH_01.pdf vs BATCH_02.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_02
+  2. BATCH_01.pdf vs BATCH_03.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_03
+  3. BATCH_01.pdf vs BATCH_04.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_04
+  4. BATCH_01.pdf vs BATCH_05.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_05
+  5. BATCH_02.pdf vs BATCH_03.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_02_BATCH_03
+  6. BATCH_02.pdf vs BATCH_04.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_02_BATCH_04
+  7. BATCH_02.pdf vs BATCH_05.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_02_BATCH_05
+  8. BATCH_03.pdf vs BATCH_04.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_03_BATCH_04
+  9. BATCH_03.pdf vs BATCH_05.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_03_BATCH_05
+  10. BATCH_04.pdf vs BATCH_05.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_04_BATCH_05
+
+Ranking by similar_98:
+  1. BATCH_01.pdf vs BATCH_02.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_02
+  2. BATCH_01.pdf vs BATCH_03.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_03
+  3. BATCH_01.pdf vs BATCH_04.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_04
+  4. BATCH_01.pdf vs BATCH_05.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_01_BATCH_05
+  5. BATCH_02.pdf vs BATCH_03.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_02_BATCH_03
+  6. BATCH_02.pdf vs BATCH_04.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_02_BATCH_04
+  7. BATCH_02.pdf vs BATCH_05.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_02_BATCH_05
+  8. BATCH_03.pdf vs BATCH_04.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_03_BATCH_04
+  9. BATCH_03.pdf vs BATCH_05.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_03_BATCH_05
+  10. BATCH_04.pdf vs BATCH_05.pdf: 1.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2006\100_compared_BATCH_04_BATCH_05

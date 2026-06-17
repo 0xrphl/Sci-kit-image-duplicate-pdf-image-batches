@@ -1,0 +1,45 @@
+Folder Summary Report
+==================================================
+
+
+Ranking by average_similarity:
+  1. GOV_BC.pdf vs GOV_DL.pdf: 58.79  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\058_compared_GOV_BC_GOV_DL
+  2. GOV_BC.pdf vs GOV_NOTICE.pdf: 57.71  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\057_compared_GOV_BC_GOV_NOTICE
+  3. GOV_DL.pdf vs GOV_NOTICE.pdf: 56.29  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\056_compared_GOV_DL_GOV_NOTICE
+  4. GOV_BC.pdf vs GOV_TAX.pdf: 52.71  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\052_compared_GOV_BC_GOV_TAX
+  5. GOV_NOTICE.pdf vs GOV_TAX.pdf: 49.24  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\049_compared_GOV_NOTICE_GOV_TAX
+  6. GOV_DL.pdf vs GOV_TAX.pdf: 46.18  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\046_compared_GOV_DL_GOV_TAX
+
+Ranking by identical_pages:
+  1. GOV_BC.pdf vs GOV_DL.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\058_compared_GOV_BC_GOV_DL
+  2. GOV_BC.pdf vs GOV_NOTICE.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\057_compared_GOV_BC_GOV_NOTICE
+  3. GOV_BC.pdf vs GOV_TAX.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\052_compared_GOV_BC_GOV_TAX
+  4. GOV_DL.pdf vs GOV_NOTICE.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\056_compared_GOV_DL_GOV_NOTICE
+  5. GOV_DL.pdf vs GOV_TAX.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\046_compared_GOV_DL_GOV_TAX
+  6. GOV_NOTICE.pdf vs GOV_TAX.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\049_compared_GOV_NOTICE_GOV_TAX
+
+Ranking by similar_98:
+  1. GOV_BC.pdf vs GOV_DL.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\058_compared_GOV_BC_GOV_DL
+  2. GOV_BC.pdf vs GOV_NOTICE.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\057_compared_GOV_BC_GOV_NOTICE
+  3. GOV_BC.pdf vs GOV_TAX.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\052_compared_GOV_BC_GOV_TAX
+  4. GOV_DL.pdf vs GOV_NOTICE.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\056_compared_GOV_DL_GOV_NOTICE
+  5. GOV_DL.pdf vs GOV_TAX.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\046_compared_GOV_DL_GOV_TAX
+  6. GOV_NOTICE.pdf vs GOV_TAX.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2005\049_compared_GOV_NOTICE_GOV_TAX

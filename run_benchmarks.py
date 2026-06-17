@@ -449,11 +449,11 @@ def chart_kpi_inflation(metrics, out_dir):
     total = [client_docs[c]["total"] for c in clients]
     unique = [client_docs[c]["unique"] for c in clients]
 
-    fig, ax = plt.subplots(figsize=(16, 7))
+    fig, ax = plt.subplots(figsize=(14, 5))
     x = np.arange(len(clients))
-    width = 0.35
+    width = 0.32
 
-    # Use solid colours (gradient imshow fails with small integer bar heights)
+    # Solid colour bars
     bars_before = ax.bar(x - width/2, total, width,
                          label="Before Dedup (Inflated)",
                          color="#d29922", edgecolor=TEXT_COLOR, linewidth=0.8, zorder=3)
@@ -461,39 +461,31 @@ def chart_kpi_inflation(metrics, out_dir):
                         label="After Dedup (Actual)",
                         color="#3fb950", edgecolor=TEXT_COLOR, linewidth=0.8, zorder=3)
 
-    # Value labels on bars
+    # Value labels centred inside each bar
     for bar in bars_before:
         h = bar.get_height()
         if h > 0:
-            ax.text(bar.get_x() + bar.get_width() / 2, h + 0.1, str(int(h)),
-                    ha="center", va="bottom", fontsize=9, color="#d29922", fontweight="bold")
+            ax.text(bar.get_x() + bar.get_width() / 2, h / 2, str(int(h)),
+                    ha="center", va="center", fontsize=10, color="white", fontweight="bold")
 
     for bar in bars_after:
         h = bar.get_height()
         if h > 0:
-            ax.text(bar.get_x() + bar.get_width() / 2, h + 0.1, str(int(h)),
-                    ha="center", va="bottom", fontsize=9, color="#3fb950", fontweight="bold")
-
-    # Inflation labels (above the taller bar)
-    for i in range(len(clients)):
-        if total[i] > unique[i]:
-            inflation = ((total[i] - unique[i]) / unique[i]) * 100 if unique[i] > 0 else 0
-            ax.text(i, max(total[i], unique[i]) + 0.5,
-                    f"-{total[i]-unique[i]} dup ({inflation:.0f}% inflated)",
-                    ha="center", fontsize=8, color=ACCENT_RED, fontweight="bold")
+            ax.text(bar.get_x() + bar.get_width() / 2, h / 2, str(int(h)),
+                    ha="center", va="center", fontsize=10, color="white", fontweight="bold")
 
     ax.set_xticks(x)
     ax.set_xticklabels(clients, rotation=45, ha="right", fontsize=9)
     ax.set_ylabel("Documents Processed", fontsize=12, fontweight="bold")
     ax.set_title("KPI Inflation Risk -- Document Count Before vs After Deduplication",
-                 fontsize=14, fontweight="bold", pad=15)
-    ax.legend(loc="upper right", facecolor=CARD_COLOR, edgecolor=GRID_COLOR, fontsize=10)
+                 fontsize=13, fontweight="bold", pad=10)
+    ax.legend(loc="upper left", facecolor=CARD_COLOR, edgecolor=GRID_COLOR, fontsize=9)
     ax.grid(axis="y", alpha=0.3)
     ax.yaxis.set_major_locator(ticker.MaxNLocator(integer=True))
     max_val = max(max(total), max(unique)) if total else 5
-    ax.set_ylim(0, max_val + 2)
+    ax.set_ylim(0, max_val + 1)
 
-    fig.tight_layout(pad=2.0)
+    fig.subplots_adjust(bottom=0.22)
     path = os.path.join(out_dir, "chart_kpi_inflation.png")
     fig.savefig(path, dpi=150, bbox_inches="tight", facecolor=BG_COLOR)
     plt.close(fig)
