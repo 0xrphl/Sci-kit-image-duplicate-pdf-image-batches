@@ -1,0 +1,45 @@
+Folder Summary Report
+==================================================
+
+
+Ranking by average_similarity:
+  1. DOC_0013.pdf vs DOC_0014.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\100_compared_DOC_0013_DOC_0014
+  2. DOC_0013.pdf vs DOC_0015.pdf: 73.01  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\073_compared_DOC_0013_DOC_0015
+  3. DOC_0014.pdf vs DOC_0015.pdf: 73.01  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\073_compared_DOC_0014_DOC_0015
+  4. DOC_0013.pdf vs DOC_0016.pdf: 36.15  (extra pages: 1)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\036_compared_DOC_0013_DOC_0016
+  5. DOC_0014.pdf vs DOC_0016.pdf: 36.15  (extra pages: 1)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\036_compared_DOC_0014_DOC_0016
+  6. DOC_0015.pdf vs DOC_0016.pdf: 26.81  (extra pages: 1)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\026_compared_DOC_0015_DOC_0016
+
+Ranking by identical_pages:
+  1. DOC_0013.pdf vs DOC_0014.pdf: 3.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\100_compared_DOC_0013_DOC_0014
+  2. DOC_0013.pdf vs DOC_0015.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\073_compared_DOC_0013_DOC_0015
+  3. DOC_0013.pdf vs DOC_0016.pdf: 0.00  (extra pages: 1)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\036_compared_DOC_0013_DOC_0016
+  4. DOC_0014.pdf vs DOC_0015.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\073_compared_DOC_0014_DOC_0015
+  5. DOC_0014.pdf vs DOC_0016.pdf: 0.00  (extra pages: 1)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\036_compared_DOC_0014_DOC_0016
+  6. DOC_0015.pdf vs DOC_0016.pdf: 0.00  (extra pages: 1)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\026_compared_DOC_0015_DOC_0016
+
+Ranking by similar_98:
+  1. DOC_0013.pdf vs DOC_0014.pdf: 3.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\100_compared_DOC_0013_DOC_0014
+  2. DOC_0013.pdf vs DOC_0015.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\073_compared_DOC_0013_DOC_0015
+  3. DOC_0013.pdf vs DOC_0016.pdf: 0.00  (extra pages: 1)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\036_compared_DOC_0013_DOC_0016
+  4. DOC_0014.pdf vs DOC_0015.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\073_compared_DOC_0014_DOC_0015
+  5. DOC_0014.pdf vs DOC_0016.pdf: 0.00  (extra pages: 1)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\036_compared_DOC_0014_DOC_0016
+  6. DOC_0015.pdf vs DOC_0016.pdf: 0.00  (extra pages: 1)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1005\026_compared_DOC_0015_DOC_0016

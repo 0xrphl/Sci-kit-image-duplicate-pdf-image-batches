@@ -1,0 +1,27 @@
+Folder Summary Report
+==================================================
+
+
+Ranking by average_similarity:
+  1. TAX_ORIGINAL.pdf vs TAX_SCANNED.pdf: 97.05  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2003\097_compared_TAX_ORIGINAL_TAX_SCANNED
+  2. TAX_ORIGINAL.pdf vs TAX_SHIFTED.pdf: 39.46  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2003\039_compared_TAX_ORIGINAL_TAX_SHIFTED
+  3. TAX_SCANNED.pdf vs TAX_SHIFTED.pdf: 38.62  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2003\038_compared_TAX_SCANNED_TAX_SHIFTED
+
+Ranking by identical_pages:
+  1. TAX_ORIGINAL.pdf vs TAX_SCANNED.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2003\097_compared_TAX_ORIGINAL_TAX_SCANNED
+  2. TAX_ORIGINAL.pdf vs TAX_SHIFTED.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2003\039_compared_TAX_ORIGINAL_TAX_SHIFTED
+  3. TAX_SCANNED.pdf vs TAX_SHIFTED.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2003\038_compared_TAX_SCANNED_TAX_SHIFTED
+
+Ranking by similar_98:
+  1. TAX_ORIGINAL.pdf vs TAX_SCANNED.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2003\097_compared_TAX_ORIGINAL_TAX_SCANNED
+  2. TAX_ORIGINAL.pdf vs TAX_SHIFTED.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2003\039_compared_TAX_ORIGINAL_TAX_SHIFTED
+  3. TAX_SCANNED.pdf vs TAX_SHIFTED.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2003\038_compared_TAX_SCANNED_TAX_SHIFTED

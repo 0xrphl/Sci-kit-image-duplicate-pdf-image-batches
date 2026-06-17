@@ -405,22 +405,26 @@ def chart_storage_impact(metrics, out_dir):
                       aspect="auto", cmap=GRAD_GREEN, zorder=2)
             bar.set_facecolor("none")
 
-    # Value labels
+    # Value labels — place wasted text INSIDE the red bar segment (not above)
     for i in range(len(clients)):
-        total_val = unique[i] + wasted[i]
         if wasted[i] > 0.001:
-            ax.text(i, total_val + 0.02, f"+{wasted[i]:.2f} MB\nwasted",
-                    ha="center", fontsize=8, color=ACCENT_RED, fontweight="bold")
+            mid_y = unique[i] + wasted[i] / 2  # centre of wasted segment
+            ax.text(i, mid_y, f"+{wasted[i]:.2f}",
+                    ha="center", va="center", fontsize=8, color="white", fontweight="bold")
+
+    # Cap y-axis tightly to data so no gray empty space
+    max_total = max(u + w for u, w in zip(unique, wasted)) if unique else 1
+    ax.set_ylim(0, max_total * 1.08)
 
     ax.set_xticks(x)
     ax.set_xticklabels(clients, rotation=45, ha="right", fontsize=9)
     ax.set_ylabel("Storage (MB)", fontsize=12, fontweight="bold")
-    ax.set_title("Storage Impact Analysis — Unique vs Wasted (Duplicate) Storage",
-                 fontsize=14, fontweight="bold", pad=15)
+    ax.set_title("Storage Impact -- Unique vs Wasted (Duplicate) Storage",
+                 fontsize=13, fontweight="bold", pad=10)
     ax.legend(loc="upper right", facecolor=CARD_COLOR, edgecolor=GRID_COLOR)
     ax.grid(axis="y", alpha=0.3)
 
-    fig.tight_layout()
+    fig.subplots_adjust(bottom=0.22)
     path = os.path.join(out_dir, "chart_storage_impact.png")
     fig.savefig(path, dpi=150, bbox_inches="tight", facecolor=BG_COLOR)
     plt.close(fig)

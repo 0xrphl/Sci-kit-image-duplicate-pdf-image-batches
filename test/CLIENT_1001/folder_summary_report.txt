@@ -1,0 +1,27 @@
+Folder Summary Report
+==================================================
+
+
+Ranking by average_similarity:
+  1. DOC_0001.pdf vs DOC_0002.pdf: 100.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1001\100_compared_DOC_0001_DOC_0002
+  2. DOC_0001.pdf vs DOC_0003.pdf: 43.64  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1001\043_compared_DOC_0001_DOC_0003
+  3. DOC_0002.pdf vs DOC_0003.pdf: 43.64  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1001\043_compared_DOC_0002_DOC_0003
+
+Ranking by identical_pages:
+  1. DOC_0001.pdf vs DOC_0002.pdf: 2.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1001\100_compared_DOC_0001_DOC_0002
+  2. DOC_0001.pdf vs DOC_0003.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1001\043_compared_DOC_0001_DOC_0003
+  3. DOC_0002.pdf vs DOC_0003.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1001\043_compared_DOC_0002_DOC_0003
+
+Ranking by similar_98:
+  1. DOC_0001.pdf vs DOC_0002.pdf: 2.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1001\100_compared_DOC_0001_DOC_0002
+  2. DOC_0001.pdf vs DOC_0003.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1001\043_compared_DOC_0001_DOC_0003
+  3. DOC_0002.pdf vs DOC_0003.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_1001\043_compared_DOC_0002_DOC_0003

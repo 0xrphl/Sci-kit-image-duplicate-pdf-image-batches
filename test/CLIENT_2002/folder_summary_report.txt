@@ -1,0 +1,27 @@
+Folder Summary Report
+==================================================
+
+
+Ranking by average_similarity:
+  1. BC_ORIGINAL.pdf vs BC_ROTATED_180.pdf: 63.70  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2002\063_compared_BC_ORIGINAL_BC_ROTATED_180
+  2. BC_ROTATED_180.pdf vs BC_ROTATED_90.pdf: 59.31  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2002\059_compared_BC_ROTATED_180_BC_ROTATED_90
+  3. BC_ORIGINAL.pdf vs BC_ROTATED_90.pdf: 59.20  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2002\059_compared_BC_ORIGINAL_BC_ROTATED_90
+
+Ranking by identical_pages:
+  1. BC_ORIGINAL.pdf vs BC_ROTATED_180.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2002\063_compared_BC_ORIGINAL_BC_ROTATED_180
+  2. BC_ORIGINAL.pdf vs BC_ROTATED_90.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2002\059_compared_BC_ORIGINAL_BC_ROTATED_90
+  3. BC_ROTATED_180.pdf vs BC_ROTATED_90.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2002\059_compared_BC_ROTATED_180_BC_ROTATED_90
+
+Ranking by similar_98:
+  1. BC_ORIGINAL.pdf vs BC_ROTATED_180.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2002\063_compared_BC_ORIGINAL_BC_ROTATED_180
+  2. BC_ORIGINAL.pdf vs BC_ROTATED_90.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2002\059_compared_BC_ORIGINAL_BC_ROTATED_90
+  3. BC_ROTATED_180.pdf vs BC_ROTATED_90.pdf: 0.00  (extra pages: 0)
+     Folder: C:\Users\ralph\Documents\GitHub\Duplicated_PDF_Detection_Algo-main\Duplicated_PDF_Detection_Algo-main\test\CLIENT_2002\059_compared_BC_ROTATED_180_BC_ROTATED_90
